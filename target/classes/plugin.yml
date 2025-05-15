@@ -1,0 +1,4 @@
+name: WorldBorder
+version: '1.0-SNAPSHOT'
+main: me.wowkfccc.logplayeraction.worldBorder.WorldBorder
+api-version: '1.21'
